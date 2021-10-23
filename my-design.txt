@@ -6,6 +6,7 @@ Target
     ^ Laravel
     ^ Yii
   * Javascript
-    ^ Angular JS
+    ^ Vue JS
     ^ React Js
+    ^ Node JS
   * Python
