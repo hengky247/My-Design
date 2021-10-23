@@ -5,3 +5,4 @@ Rencana Membuat Website
 - POS Rumah Sakit
 - POS Pergudangan
 - Aplikasi Android
+- Membuat struktur Database
