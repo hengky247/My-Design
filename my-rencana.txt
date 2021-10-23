@@ -1,0 +1,7 @@
+Rencana Membuat Website
+- POS MyLaundry
+  * menggunakan Bootstrap 5
+  * menggunakan CI4
+- POS Rumah Sakit
+- POS Pergudangan
+- Aplikasi Android
