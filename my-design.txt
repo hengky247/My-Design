@@ -1,2 +1,3 @@
 Target
 - mengupload 10 foto Design Website / Aplikasi yang menggunakan tools Figma.
+- membuat slicing dari foto ke source code atau HTML, CSS.
