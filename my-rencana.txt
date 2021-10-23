@@ -1,0 +1,5 @@
+Rencana Membuat Website
+- POS MyLaundry
+- POS Rumah Sakit
+- POS Pergudangan
+- Aplikasi Android
