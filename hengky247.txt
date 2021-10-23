@@ -1,0 +1,6 @@
+Halo Salam Kenal saya Hengky dari jakarta
+
+ini beberapa project figma yang menurut saya bagus :
+- website portofolio
+- website undangan online
+- website pembelian berbasis scan barcode
