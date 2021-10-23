@@ -1,3 +1,11 @@
 Target
 - mengupload 10 foto Design Website / Aplikasi yang menggunakan tools Figma.
-- membuat vidio
+- belajar bahasa
+  * PHP
+    ^ Codeigniter 4
+    ^ Laravel
+    ^ Yii
+  * Javascript
+    ^ Angular JS
+    ^ React Js
+  * Python
