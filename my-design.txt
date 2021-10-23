@@ -9,4 +9,5 @@ Target
     ^ Vue JS
     ^ React Js
     ^ Node JS
+    ^ Angular JS
   * Python
